@@ -19,4 +19,4 @@ const requestHandler = (req, res) => {
 // module.exports.someText = "Test Data Handler";
 
 exports.handler = requestHandler;
-exports.someText = "Test Data Handler";
+//exports.someText = "Test Data Handler";
